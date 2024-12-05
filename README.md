@@ -25,11 +25,8 @@ For a complete list of our building block sets, please visit our [main page](htt
 
 ## Support
 
-If you encounter any issues with your building block set or need further assistance, please visit our [Customer Support](https://theminiblock.com/support) page.
+If you encounter any issues with your building block set or need further assistance, please visit our [Customer Support]([https://theminiblock.com/FAQ](https://theminiblock.com/pages/contact)) page.
 
-## Contributing
-
-Currently, this repository is read-only and does not accept contributions. If you have any suggestions or feedback, please contact us through our [Customer Support](https://theminiblock.com/support) page.
 
 ## License
 
